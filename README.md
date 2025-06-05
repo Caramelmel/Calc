@@ -21,7 +21,7 @@ Este projeto é uma calculadora simples com operações básicas e avançadas, i
 
 ## Como Usar
 1. Clone o repositório
-2. Execute o arquivo `Calc.py`
+2. Execute o arquivo `Calc01`
 3. Siga as instruções no terminal para realizar os cálculos
 
 ## Requisitos
