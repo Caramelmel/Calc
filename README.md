@@ -20,9 +20,10 @@ Este projeto é uma calculadora simples com operações básicas e avançadas, i
 - Entradas inválidas (não numéricas)
 
 ## Como Usar
-1. Clone o repositório
-2. Execute o arquivo `Calc01`
-3. Siga as instruções no terminal para realizar os cálculos
+1. Clone o repositório:
+2. '''bash
+3. git clone https://github.com/Caramelmel/Calc
+4. cd Calc
 
 ## Requisitos
 - Python 3.x instalado
